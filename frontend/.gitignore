@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # virtual environment
-env
+.env
